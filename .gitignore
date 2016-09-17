@@ -1,0 +1,5 @@
+TestResults/
+UnitTests/bin/
+UnitTests/obj/
+CellularAutomataKata/bin/
+CellularAutomataKata/obj/
