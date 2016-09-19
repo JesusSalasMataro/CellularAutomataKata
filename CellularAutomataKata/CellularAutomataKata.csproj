@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AutomataRule.cs" />
+    <Compile Include="AutomataRule30.cs" />
     <Compile Include="AutomataRule90.cs" />
     <Compile Include="CellularAutomata.cs" />
     <Compile Include="Program.cs" />

@@ -10,7 +10,7 @@ namespace CellularAutomataKata
     {
         private Dictionary<string, char> _rule90;
 
-        public override void InitRule()
+        public AutomataRule90()
         {
             _rule90 = new Dictionary<string, char>();
             _rule90.Add("111", '0');

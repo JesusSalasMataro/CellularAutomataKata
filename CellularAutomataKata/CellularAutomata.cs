@@ -13,7 +13,6 @@ namespace CellularAutomataKata
         public CellularAutomata(AutomataRule rule)
         {
             _rule = rule;
-            _rule.InitRule();
         }
 
         public List<string> Run(string inputString, int steps)
